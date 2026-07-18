@@ -1,6 +1,9 @@
 {
   "name": "liam-cdk-js",
   "version": "0.1.0",
+  "bin": {
+    "liam-cdk-js": "bin/liam-cdk-js.js"
+  },
   "scripts": {
     "build": "echo \"The build step is not required when using JavaScript!\" && exit 0",
     "cdk": "cdk",
