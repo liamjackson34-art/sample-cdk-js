@@ -1,6 +1,6 @@
 # Majini Band Website - AWS CDK Infrastructure
 
-This project uses the AWS Cloud Development Kit (CDK) with TypeScript to provision cloud infrastructure for the "Majini Band" static website. 
+This project uses the AWS Cloud Development Kit (CDK) with JavaScript to provision cloud infrastructure for the "Majini Band" static website. 
 
 <img width="950" height="406" alt="image" src="https://github.com/user-attachments/assets/4b06d74b-29af-4c39-8cc0-379a93698669" />
 
