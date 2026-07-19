@@ -26,7 +26,6 @@ This CDK stack (`LiamCdkJsStack`) automatically provisions two Amazon S3 buckets
 ### Useful Commands
 
 * `npm install`     - Installs the required dependencies
-* `npm run build`   - Compiles TypeScript to JavaScript
 * `npx cdk synth`   - Emits the synthesized CloudFormation template
 * `npx cdk deploy`  - Deploys the stack to your default AWS account/region
 * `npx cdk destroy` - Tears down the stack and deletes the S3 buckets
